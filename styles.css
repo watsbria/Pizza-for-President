@@ -1,0 +1,57 @@
+html {
+    display: flex;
+    background-image: url("https://www.foodiesfeed.com/wp-content/uploads/2019/02/pizza-ready-for-baking.jpg");
+    color: black;
+    justify-content: center;
+}
+img {
+  border-radius: 50%;
+}
+p {
+    display: flex;
+    border: black dotted .5px;
+    background-color: white;
+}
+.pizza {
+    display: flex;
+    border: solid blue 2px;
+    margin: 30px;
+    padding: 5px;
+    justify-content: center;
+    color: black;
+    background-color: white;
+}
+.trump {
+    display: flex;
+    border: solid red 2px;
+    margin: 30px;
+    padding: 5px;
+    justify-content: center;
+    color: green;
+    background-color: black;
+}
+button {
+    display: flex;
+    background: blue;
+    border: solid black 2px;
+    justify-content:center;
+}
+h2 {
+    display: flex;
+    border: black 2px dotted;
+    color: black;
+    background-color: white;
+}
+h1 {
+    display: flex;
+    border: black 2px dotted;
+    background-color: red;
+}
+h3 {
+    display: flex;
+    border: black 2px dotted;
+    background-color: white;
+}
+button {
+    font-family: 'Fira Sans', sans-serif;
+}
